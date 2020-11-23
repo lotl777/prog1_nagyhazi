@@ -1,0 +1,16 @@
+Függvények
+o	create_Time: létrehoz egy Time struktúrát
+o	create_Runner: létrehoz egy Runner struktúrát
+o	create_Race: létrehoz egy Race struktúrát
+o	create_Runnernode: létrehoz egy Runner listaelemet
+o	create_Racenode: létrehoz egy Race listeelemet
+o	create_spine: létrehozza az adatszerkezet gerincét
+o	create_tooth: létrehozza és a gerinchez kapcsolja a fogakat
+o	find_club: Megkeresi a listában az adott egyesülethez tartozó futókat
+o	calc_time: másodpercben megadja az időeredményt
+o	calc_avgspeed: megadja az átlagsebességet (m/s)
+o	print_trio: megadja és kiírja az adott egyesület tagjai közül a legjobb 3 futót
+o	rank_runners: rangsorolja a futókat, és kiírja az első ötöt
+o	rank_clubs: rangsorolja a klubokat és kiírja a legjobb hármat
+
+A program létrehozása közben felmerülő szükséges segédfüggvényeket szintén be fogom írni a listába.
